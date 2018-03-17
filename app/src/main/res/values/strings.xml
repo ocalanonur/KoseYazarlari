@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Köşe Yazarları</string>
+    <string name="title_activity_yazarlar">YazarlarActivity</string>
+    <string name="title_activity_kose_yazisi">KoseYazisiActivity</string>
+</resources>
